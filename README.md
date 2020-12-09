@@ -4,8 +4,8 @@
 I am taking a Programming Track this year, and i have plans to take IT/Cloud Infrastracture Course in College.
 
 ## Skills? 🤔
-- Programming and Web Development
-- Server Administration
+- Programming and Web Development (HTML, CSS, PHP, C++, MySQL)
+- Server Administration (Specialization on Linux Ubuntu Systems)
 - IT Related Skills
 - Customer Service
 - Audio-Video Integrations (Live)
