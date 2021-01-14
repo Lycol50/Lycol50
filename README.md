@@ -1,7 +1,6 @@
 # Hello there!, I'm Lyco aka princepines
 
-> I am the Founder and CEO of Maharlika Hosting, Former President of Green-Bull Minecraft Hosting.<br>
-I am taking a Programming Track this year, and i have plans to take IT/Cloud Infrastracture Course in College.
+> Introvert and Lazy
 
 ## Skills? 🤔
 - Programming and Web Development (HTML, CSS, PHP, C++, MySQL)
@@ -12,10 +11,9 @@ I am taking a Programming Track this year, and i have plans to take IT/Cloud Inf
 - Live Production Tech (All operations)
 
 ## Experiences ⚡
-- Founder and CEO at Maharlika Hosting
-- Server Administrator at PMnS
+- Server Administrator and Plugin Developer at PMnS
 - Video Integrator and All Around Live Prod Tech at Christ's Commission Fellowship - Alabang
-- Former President and Support for Bedrock Servers at Green-Bull Mineccraft Hosting
+- Former President and Support for Bedrock Servers at Green-Bull Minecraft Hosting
 - Former Server Administrator at SerenitySMP, Esquires Server, Verdanturf SMP, and KADALARO
 
 ## Projects :blue_book:
