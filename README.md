@@ -1,4 +1,4 @@
-# Hallo, Lyco here
+## Hallo, Lyco here
 
 I am currently a Plugin Developer at ThePMnS Network                                               
      
@@ -23,7 +23,7 @@ I am currently a Plugin Developer at ThePMnS Network
 - Audio-Video Integrations (Live)
 - Live Production Tech (All operations)
 
-## Experiences ⚡
+### Experiences ⚡
 - Plugin Developer at PMnS (both PocketMine and Nukkit)
 - Volunteer Video Integrator and  Volunteer All Around Live Prod Tech at Christ's Commission Fellowship - Alabang
 - Former President and Support for Bedrock Servers at Green-Bull Minecraft Hosting
@@ -41,6 +41,9 @@ I am currently a Plugin Developer at ThePMnS Network
 | Facebook  | <a href="https://fb.me/princepiness">Link</a>
 | YouTube | <a href="https://www.youtube.com/channel/UCcltou22yjHJpffh88FiVEA">Link</a>
 | Discord | princepines#5041 |
+
+If you are an Informatics Student, Teacher/Faculty, you can email me at
+> frizth_tatierra@informatics.edu.ph
 
 
 ![prince](https://github-readme-stats.vercel.app/api?username=Lycol50&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp;
