@@ -1,6 +1,6 @@
-# Hallo, Lyco here or aka princepines
+# Hallo, Lyco here
 
-Currently Developer at ThePMnS Network                                               
+I am currently a Plugin Developer at ThePMnS Network                                               
      
                   &@&$$$$gw  $$$$$~    &$@&&         ,g&$$$$Nw
                   $$$$$$$$$$W$$$$$L   ]$$$$$        /$$$$$$$$$$L
@@ -24,15 +24,17 @@ Currently Developer at ThePMnS Network
 - Live Production Tech (All operations)
 
 ## Experiences ⚡
-- Plugin Developer at PMnS
-- Video Integrator and All Around Live Prod Tech at Christ's Commission Fellowship - Alabang
+- Plugin Developer at PMnS (both PocketMine and Nukkit)
+- Volunteer Video Integrator and  Volunteer All Around Live Prod Tech at Christ's Commission Fellowship - Alabang
 - Former President and Support for Bedrock Servers at Green-Bull Minecraft Hosting
 - Former Server Administrator at SerenitySMP, Esquires Server, Verdanturf SMP, and KADALARO
 
-## Projects :blue_book:
-- Various Plugins for PMnS
-- MultiProtocol from BajanVlogs
-- Some Personal Projects (like websites)
+### Projects
+| Project Name |
+| ----------- |
+| MultiProtocol (Forked)  |
+| BlockCommand/BlockCommander |
+
 
 ![prince](https://github-readme-stats.vercel.app/api?username=Lycol50&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp;
 ![princelang](https://github-readme-stats.vercel.app/api/top-langs/?username=Lycol50&layout=compact)
