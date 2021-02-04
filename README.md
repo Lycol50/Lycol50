@@ -42,7 +42,8 @@ I am currently a Plugin Developer at ThePMnS Network
 | YouTube | <a href="https://www.youtube.com/channel/UCcltou22yjHJpffh88FiVEA">Link</a>
 | Discord | princepines#5041 |
 
-If you are an Informatics Student, Teacher/Faculty, you can email me at
+
+#### If you are an Informatics Student, Teacher/Faculty, you can email me at
 > frizth_tatierra@informatics.edu.ph
 
 
