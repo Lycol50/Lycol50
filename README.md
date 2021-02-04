@@ -1,6 +1,32 @@
-# Hello there!, I'm Lyco aka princepines
+# Hallo, Lyco here or aka princepines
 
-> Introvert and Lazy
+Currently Developer at ThePMnS Network
+                                                                
+
+              gg&&@&Nw;  $$$$$.    g&ggg          a$$$$&g,            
+
+              $$$$$$$$$$w$$$$&L   ,$$$$$        ,$$$&$$$$$$,          
+
+              &$$$- "$$$$$$$$$$   &$$$$$.       &$$$"  ]$$$$          
+
+              $$$$.  ]$$$$$$$$$` /$$$$$$r       $$$$      ``          
+
+              $$$$U  /$$$$$$$$$L $$$$$$&U       &&$$Wggw,             
+
+              ]$$$&&$$$$$$$$$$$&A$$$$$$$$$&  |$$"T&$$$$$$&.           
+
+              ]&$$$$$$P&$$$"&$$$$$$@}$$$$$$N |$$`   '"]&$$$           
+
+              j$$$l    $$$$ $$$$$$$"|&$$$$$$b|$&w,,   ]$$$[           
+
+               $$$$   ]$$$[ ]$$$$$P ]$$$$$$&$$$$$$$,,,A$$$L           
+
+               $$$$   &$$$~  $$$&$  j$$$$&[\$$$&$$$$$$$$$F            
+
+               PPMM   """*   ****"  'PRR$&[ T$$$U'*"****              
+
+                                        BB[  BBB`                     
+                                    
 
 ## Skills? 🤔
 - Programming and Web Development (HTML, CSS, PHP, C++, MySQL)
@@ -11,7 +37,7 @@
 - Live Production Tech (All operations)
 
 ## Experiences ⚡
-- Server Administrator and Plugin Developer at PMnS
+- Plugin Developer at PMnS
 - Video Integrator and All Around Live Prod Tech at Christ's Commission Fellowship - Alabang
 - Former President and Support for Bedrock Servers at Green-Bull Minecraft Hosting
 - Former Server Administrator at SerenitySMP, Esquires Server, Verdanturf SMP, and KADALARO
