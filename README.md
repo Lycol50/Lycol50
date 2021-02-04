@@ -35,6 +35,13 @@ I am currently a Plugin Developer at ThePMnS Network
 | MultiProtocol (Forked)  |
 | BlockCommand/BlockCommander |
 
+### Social Medias
+| Social Media | Link/Details |
+| ----------- | ----------- |
+| Facebook  | <a href="https://fb.me/princepiness">Link</a>
+| YouTube | <a href="https://www.youtube.com/channel/UCcltou22yjHJpffh88FiVEA">Link</a>
+| Discord | princepines#5041 |
+
 
 ![prince](https://github-readme-stats.vercel.app/api?username=Lycol50&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp;
 ![princelang](https://github-readme-stats.vercel.app/api/top-langs/?username=Lycol50&layout=compact)
