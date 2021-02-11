@@ -46,6 +46,8 @@ I am currently a Plugin Developer at ThePMnS Network
 #### If you are an Informatics Student, Teacher/Faculty, you can email me at
 > frizth_tatierra@informatics.edu.ph
 
+**Join to ThePMnS Newtwork Discord:**
+<a href="https://discord.gg/EJpmkuVXk2">![https://discord.gg/EJpmkuVXk2](https://discordapp.com/api/guilds/784705891701489674/widget.png?style=banner4)</a>
 
 ![prince](https://github-readme-stats.vercel.app/api?username=Lycol50&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp;
 ![princelang](https://github-readme-stats.vercel.app/api/top-langs/?username=Lycol50&layout=compact)
