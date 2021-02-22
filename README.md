@@ -16,7 +16,7 @@ I am currently a Plugin Developer at ThePMnS Network
                                             RRF  TRR`
 
 ## Skills? 🤔
-- Programming and Web Development (HTML, CSS, PHP, C++, MySQL)
+- Programming and Web Development (HTML, CSS, PHP, C++, MySQL, PHP and Java)
 - Server Administration (Specialization on Linux Ubuntu Systems)
 - IT Related Skills
 - Customer Service
