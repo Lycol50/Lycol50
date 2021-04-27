@@ -14,8 +14,8 @@ Hi, My name is Lyco, or aka princepines, i love to make plugins, website and mor
 
 ### Experiences ⚡
 - Plugin Developer at HoennPE Network
-- Former Owner and Plugin Developer at PMnS (both PocketMine and Nukkit)
 - Volunteer Video Integrator and  Volunteer All Around Live Prod Tech at Christ's Commission Fellowship - Alabang
+- Former Owner and Plugin Developer at PMnS (both PocketMine and Nukkit)
 - Former President and Support for Bedrock Servers at Green-Bull Minecraft Hosting
 - Former Server Administrator at SerenitySMP, Esquires Server, Verdanturf SMP, and KADALARO
 
