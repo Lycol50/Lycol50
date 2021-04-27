@@ -33,11 +33,14 @@ Hi, My name is Lyco, or aka princepines, i love to make plugins, website and mor
 | YouTube | <a href="https://www.youtube.com/channel/UCcltou22yjHJpffh88FiVEA">Link</a>
 | Discord | princepines#5041 |
 
+## Join to HoennPE Discord
+[![Join our Discord server!](https://invidget.switchblade.xyz/6QsqzYH6Jh?theme=dark)](http://discord.gg/6QsqzYH6Jh)
+
 #### If you are an Informatics Student, Teacher/Faculty, you can email me at
 > frizth_tatierra@informatics.edu.ph
 
-![prince](https://github-readme-stats.vercel.app/api?username=Lycol50&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp;
-![princelang](https://github-readme-stats.vercel.app/api/top-langs/?username=Lycol50&layout=compact)
+![prince](https://github-readme-stats.vercel.app/api?username=Lycol50&show_icons=true&theme=gotham)&nbsp;
+![princelang](https://github-readme-stats.vercel.app/api/top-langs/?username=Lycol50&layout=compact&theme=gotham)
 
 <!--
 **Lycol50/Lycol50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
