@@ -1,8 +1,8 @@
-<center><img src="https://cdn.discordapp.com/attachments/834138834999705670/834139563639308370/HoennLogo-2_00000.png">
+<center><img src="https://cdn.discordapp.com/attachments/842273855552618507/842418877223927808/WELCOME.png">
 
-## Certified HoennPE Developer 
+## Founder and CEO of PinesHosting
 
-Hi, My name is Lyco, or aka princepines, i love to make plugins, website and more!
+Hi, My name is Lyco, or aka princepines, i love to make ~~plugins~~, website and more!
 
 ## Skills? 🤔
 - Programming and Web Development (HTML, CSS, PHP, C++, MySQL, PHP)
@@ -13,8 +13,9 @@ Hi, My name is Lyco, or aka princepines, i love to make plugins, website and mor
 - Live Production Tech (All operations)
 
 ### Experiences ⚡
-- Plugin Developer at HoennPE Network
-- Volunteer Video Integrator and  Volunteer All Around Live Prod Tech at Christ's Commission Fellowship - Alabang
+- Founder and CEO of PinesHosting
+- Former Plugin Developer at HoennPE Network
+- Volunteer Video Integrator and Volunteer All Around Live Prod Tech at Christ's Commission Fellowship - Alabang
 - Former Owner and Plugin Developer at PMnS (both PocketMine and Nukkit)
 - Former President and Support for Bedrock Servers at Green-Bull Minecraft Hosting
 - Former Server Administrator at SerenitySMP, Esquires Server, Verdanturf SMP, and KADALARO
@@ -25,16 +26,18 @@ Hi, My name is Lyco, or aka princepines, i love to make plugins, website and mor
 | MultiProtocol (Forked)  |
 | BlockCommand/BlockCommander |
 | PinakaMalupetnaServer-Network (Organization) |
+| HoennPE (Organization) |
 
 ### Social Medias
 | Social Media | Link/Details |
 | ----------- | ----------- |
 | Facebook  | <a href="https://fb.me/princepiness">Link</a>
+| LinkedIn | [Link](https://www.linkedin.com/in/lyco-tatierra-a81b421bb/)
 | YouTube | <a href="https://www.youtube.com/channel/UCcltou22yjHJpffh88FiVEA">Link</a>
 | Discord | princepines#5041 |
 
-## Join to HoennPE Discord
-[![Join our Discord server!](https://invidget.switchblade.xyz/6QsqzYH6Jh?theme=dark)](http://discord.gg/6QsqzYH6Jh)
+## Join to PinesHosting Discord Sever
+[![Join our Discord server!](https://invidget.switchblade.xyz/5Dc4S8hZcC?theme=dark)](http://pineshost.xyz/discord)
 
 #### If you are an Informatics Student, Teacher/Faculty, you can email me at
 > frizth_tatierra@informatics.edu.ph
