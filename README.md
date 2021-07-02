@@ -1,8 +1,8 @@
-<center><img src="https://cdn.discordapp.com/attachments/842273855552618507/842418877223927808/WELCOME.png">
+<center><img src="https://cdn.discordapp.com/attachments/834138834999705670/848811160312872970/HoennLogo_00000.png">
 
-## Founder and CEO of PinesHosting
+## Developer at HoennPE
 
-Hi, My name is Lyco, or aka princepines, i love to make ~~plugins~~, website and more!
+Hi, My name is Lyco, or aka princepines, i love to make plugins, website and more!
 
 ## Skills? 🤔
 - Programming and Web Development (HTML, CSS, PHP, C++, MySQL, PHP)
@@ -36,8 +36,8 @@ Hi, My name is Lyco, or aka princepines, i love to make ~~plugins~~, website and
 | YouTube | <a href="https://www.youtube.com/channel/UCcltou22yjHJpffh88FiVEA">Link</a>
 | Discord | princepines#5041 |
 
-## Join to PinesHosting Discord Sever
-[![Join our Discord server!](https://invidget.switchblade.xyz/5Dc4S8hZcC?theme=dark)](http://pineshost.xyz/discord)
+## Join to HoennPE
+[![Join our Discord server!](https://invidget.switchblade.xyz/pvxtRXCCna?theme=dark)](https://discord.gg/pvxtRXCCna)
 
 #### If you are an Informatics Student, Teacher/Faculty, you can email me at
 > frizth_tatierra@informatics.edu.ph
