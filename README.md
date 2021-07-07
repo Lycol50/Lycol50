@@ -41,7 +41,9 @@ Hi, My name is Lyco, or aka princepines, i love to make plugins, website and mor
 
 #### Emails
 > • lyco@hoennpq.gq
+
 > • princepines@hoennpe.gq
+
 > • dev@hoennpe.gq
 
 ![prince](https://github-readme-stats.vercel.app/api?username=Lycol50&show_icons=true&theme=gotham)&nbsp;
