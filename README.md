@@ -39,8 +39,10 @@ Hi, My name is Lyco, or aka princepines, i love to make plugins, website and mor
 ## Join to HoennPE
 [![Join our Discord server!](https://invidget.switchblade.xyz/pvxtRXCCna?theme=dark)](https://discord.gg/pvxtRXCCna)
 
-#### If you are an Informatics Student, Teacher/Faculty, you can email me at
-> frizth_tatierra@informatics.edu.ph
+#### Emails
+> • lyco@hoennpq.gq
+> • princepines@hoennpe.gq
+> • dev@hoennpe.gq
 
 ![prince](https://github-readme-stats.vercel.app/api?username=Lycol50&show_icons=true&theme=gotham)&nbsp;
 ![princelang](https://github-readme-stats.vercel.app/api/top-langs/?username=Lycol50&layout=compact&theme=gotham)
