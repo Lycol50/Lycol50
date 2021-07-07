@@ -6,16 +6,16 @@ Hi, My name is Lyco, or aka princepines, i love to make plugins, website and mor
 
 ## Skills? 🤔
 - Programming and Web Development (HTML, CSS, PHP, C++, MySQL, PHP)
-- Server Administration (Specialization on Linux Ubuntu Systems)
+- Server Administration (Specialization on Linux Ubuntu Server)
 - IT Related Skills
 - Customer Service
 - Audio-Video Integrations (Live)
 - Live Production Tech (All operations)
 
 ### Experiences ⚡
-- Founder and CEO of PinesHosting
+- Volunteer Video Integrator and Consultant and Volunteer All Around Live Prod Tech at Christ's Commission Fellowship - Alabang
+- Former Founder and CEO of PinesHosting
 - Former Plugin Developer at HoennPE Network
-- Volunteer Video Integrator and Volunteer All Around Live Prod Tech at Christ's Commission Fellowship - Alabang
 - Former Owner and Plugin Developer at PMnS (both PocketMine and Nukkit)
 - Former President and Support for Bedrock Servers at Green-Bull Minecraft Hosting
 - Former Server Administrator at SerenitySMP, Esquires Server, Verdanturf SMP, and KADALARO
@@ -25,8 +25,8 @@ Hi, My name is Lyco, or aka princepines, i love to make plugins, website and mor
 | ----------- |
 | MultiProtocol (Forked)  |
 | BlockCommand/BlockCommander |
-| PinakaMalupetnaServer-Network (Organization) |
-| HoennPE (Organization) |
+| @PinakaMalupetnaServer-Network (Organization) |
+| @CatalystPE (Organization) |
 
 ### Social Medias
 | Social Media | Link/Details |
