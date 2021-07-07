@@ -36,15 +36,12 @@ Hi, My name is Lyco, or aka princepines, i love to make plugins, website and mor
 | YouTube | <a href="https://www.youtube.com/channel/UCcltou22yjHJpffh88FiVEA">Link</a>
 | Discord | princepines#5041 |
 
-## Join to HoennPE
-[![Join our Discord server!](https://invidget.switchblade.xyz/pvxtRXCCna?theme=dark)](https://discord.gg/pvxtRXCCna)
+![HoennPE Discord](https://discordapp.com/api/guilds/851713430544842762/widget.png?style=banner4)
 
 #### Emails
-> • lyco@hoennpq.gq
-
-> • princepines@hoennpe.gq
-
-> • dev@hoennpe.gq
+- lyco@hoennpq.gq
+- princepines@hoennpe.gq
+- dev@hoennpe.gq
 
 ![prince](https://github-readme-stats.vercel.app/api?username=Lycol50&show_icons=true&theme=gotham)&nbsp;
 ![princelang](https://github-readme-stats.vercel.app/api/top-langs/?username=Lycol50&layout=compact&theme=gotham)
