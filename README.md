@@ -36,7 +36,7 @@ Hi, My name is Lyco, or aka princepines, i love to make plugins, website and mor
 | YouTube | <a href="https://www.youtube.com/channel/UCcltou22yjHJpffh88FiVEA">Link</a>
 | Discord | princepines#5041 |
 
-![HoennPE Discord](https://discordapp.com/api/guilds/851713430544842762/widget.png?style=banner4)
+![HoennPE Discord](https://discordapp.com/api/guilds/851713430544842762/widget.png?style=banner3)
 
 #### Emails
 - lyco@hoennpq.gq
