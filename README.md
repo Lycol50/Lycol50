@@ -25,8 +25,8 @@ Hi, My name is Lyco, or aka princepines, i love to make plugins, website and mor
 | ----------- |
 | MultiProtocol (Forked)  |
 | BlockCommand/BlockCommander |
-| @PinakaMalupetnaServer-Network (Organization) |
-| @CatalystPE (Organization) |
+| [@PinakaMalupetnaServer-Network](https://github.com/PinakaMalupetnaServer-Network) (Organization) |
+| [@CatalystPE](https://github.com/CatalystPE) (Organization) |
 
 ### Social Medias
 | Social Media | Link/Details |
