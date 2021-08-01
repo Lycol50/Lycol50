@@ -1,8 +1,7 @@
-<center><img src="https://cdn.discordapp.com/attachments/834138834999705670/848811160312872970/HoennLogo_00000.png">
+# Future Developments
+> I am now leaving on developing and modifying PocketMine-MP Plugins, this means that all of my repository related to PocketMine-MP will depreciate and will no longer maintained, this includes too organization repositories. If you want to fix it, feel free to fork the repo's but if you want **me** to fix it, your request will be rejected.
 
-## Developer at HoennPE
-
-Hi, My name is Lyco, or aka princepines, i love to make plugins, website and more!
+**Hi, My name is Lyco, or aka princepines, i love to make plugins, website and more!**
 
 ## Skills? 🤔
 - Programming and Web Development (HTML, CSS, PHP, C++, MySQL, PHP)
@@ -31,17 +30,15 @@ Hi, My name is Lyco, or aka princepines, i love to make plugins, website and mor
 ### Social Medias
 | Social Media | Link/Details |
 | ----------- | ----------- |
-| Facebook  | <a href="https://fb.me/princepiness">Link</a>
+| Facebook  | <a href="https://fb.me/princepiness">/princepiness</a>
 | LinkedIn | [Link](https://www.linkedin.com/in/lyco-tatierra-a81b421bb/)
 | YouTube | <a href="https://www.youtube.com/channel/UCcltou22yjHJpffh88FiVEA">Link</a>
 | Discord | princepines#5041 |
-
-![HoennPE Discord](https://discordapp.com/api/guilds/851713430544842762/widget.png?style=banner3)
+| Twitter | <a href="https://twitter.com/Lycol50">@Lycol50</a>
 
 #### Emails
-- lyco@hoennpq.gq
-- princepines@hoennpe.gq
-- dev@hoennpe.gq
+- lycoatwork@gmail.com
+- frizth_tatierra@informatics.edu.ph
 
 ![prince](https://github-readme-stats.vercel.app/api?username=Lycol50&show_icons=true&theme=gotham)&nbsp;
 ![princelang](https://github-readme-stats.vercel.app/api/top-langs/?username=Lycol50&layout=compact&theme=gotham)
