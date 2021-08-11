@@ -26,6 +26,7 @@
 | BlockCommand/BlockCommander |
 | [@PinakaMalupetnaServer-Network](https://github.com/PinakaMalupetnaServer-Network) (Organization) |
 | [@CatalystPE](https://github.com/CatalystPE) (Organization) |
+| [@HoennPE](https://github.com/HoennPE) (Organization) |
 
 ### Social Medias
 | Social Media | Link/Details |
