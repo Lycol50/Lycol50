@@ -1,7 +1,5 @@
-# Future Developments
-> I am now leaving on developing and modifying PocketMine-MP Plugins, this means that all of my repository related to PocketMine-MP will depreciate and will no longer maintained, this includes too organization repositories. If you want to fix it, feel free to fork the repo's but if you want **me** to fix it, your request will be rejected.
-
-**Hi, My name is Lyco, or aka princepines, i love to make plugins, website and more!**
+# Introduction
+Hi, My name is **Lyco, or aka princepines***, i love to make websites and more!
 
 ## Skills? 🤔
 - Programming and Web Development (HTML, CSS, PHP, C++, MySQL, PHP)
@@ -20,15 +18,15 @@
 - Former Server Administrator at SerenitySMP, Esquires Server, Verdanturf SMP, and KADALARO
 
 ### Projects
-| Project Name |
-| ----------- |
-| PHPCaptcha |
-| cucumber (Forked) |
-| MultiProtocol (Forked)  |
-| BlockCommand/BlockCommander |
-| [@PinakaMalupetnaServer-Network](https://github.com/PinakaMalupetnaServer-Network) (Organization) |
-| [@CatalystPE](https://github.com/CatalystPE) (Organization) |
-| [@HoennPE](https://github.com/HoennPE) (Organization) |
+| Project Name | Status |
+| ----------- | ----------- |
+| PHPCaptcha | Ongoing |
+| cucumber (Forked) | Released, no more future updates |
+| MultiProtocol (Forked)  | Released, no more future updates |
+| BlockCommand/BlockCommander | Released, no more future updates |
+| [@PinakaMalupetnaServer-Network](https://github.com/PinakaMalupetnaServer-Network) (Organization) | Retired |
+| [@CatalystPE](https://github.com/CatalystPE) (Organization) | Resigned |
+| [@HoennPE](https://github.com/HoennPE) (Organization) | Retired |
 
 
 ### Social Medias
@@ -41,8 +39,7 @@
 | Twitter | <a href="https://twitter.com/Lycol50">@Lycol50</a>
 
 #### Emails
-- lycoatwork@gmail.com
-- frizth_tatierra@informatics.edu.ph
+- princepines@informatics.edu.ph
 
 ![prince](https://github-readme-stats.vercel.app/api?username=Lycol50&show_icons=true&theme=gotham)&nbsp;
 ![princelang](https://github-readme-stats.vercel.app/api/top-langs/?username=Lycol50&layout=compact&theme=gotham)
