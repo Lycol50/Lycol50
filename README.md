@@ -1,5 +1,5 @@
 # Introduction
-Hi, My name is **Lyco, or aka princepines***, i love to make websites and more!
+Hi, My name is **Lyco, or aka princepines**, i love to make websites and more!
 
 ## Skills? 🤔
 - Programming and Web Development (HTML, CSS, PHP, C++, MySQL, PHP)
