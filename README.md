@@ -35,7 +35,7 @@ Hi, My name is **Lyco, or aka princepines**, i love to make websites and more!
 | Facebook  | <a href="https://fb.me/princepiness">/princepiness</a>
 | LinkedIn | [Link](https://www.linkedin.com/in/lyco-tatierra-a81b421bb/)
 | YouTube | <a href="https://www.youtube.com/channel/UCcltou22yjHJpffh88FiVEA">Link</a>
-| Discord | princepines#5041 |
+| Discord | princepines#6636 |
 | Twitter | <a href="https://twitter.com/Lycol50">@Lycol50</a>
 
 #### Emails
