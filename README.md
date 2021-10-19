@@ -1,3 +1,8 @@
+## Latest Announcements
+*Due to busy school schedules, i am unable to maintain PHPCaptcha, but still i dont want to give up on this project.*
+
+*I will try to update some essential pmmp plugins to latest version of PMMP API, but it will take longer.*
+
 # Introduction
 Hi, My name is **Lyco, or aka princepines**, i love to make websites and more!
 
