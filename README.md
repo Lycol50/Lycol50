@@ -8,6 +8,7 @@ Hi, My name is **Lyco, or aka princepines**, i love to make websites and more!
 
 ## Skills? 🤔
 - Programming and Web Development (HTML, CSS, PHP, C++, MySQL, PHP)
+- PocketMine Plugin Development
 - Server Administration (Specialization on Linux Ubuntu Server)
 - IT Related Skills
 - Customer Service
@@ -16,22 +17,12 @@ Hi, My name is **Lyco, or aka princepines**, i love to make websites and more!
 
 ### Experiences ⚡
 - Volunteer Video Integrator and Consultant and Volunteer All Around Live Prod Tech at Christ's Commission Fellowship - Alabang
+- Owner and Developer of PinakaMalupetnaServer
 - Former Founder and CEO of PinesHosting
 - Former Plugin Developer at HoennPE Network
-- Former Owner and Plugin Developer at PMnS (both PocketMine and Nukkit)
+- Former Owner and Plugin Developer at old-PMnS (both PocketMine and Nukkit)
 - Former President and Support for Bedrock Servers at Green-Bull Minecraft Hosting
 - Former Server Administrator at SerenitySMP, Esquires Server, Verdanturf SMP, and KADALARO
-
-### Projects
-| Project Name | Status |
-| ----------- | ----------- |
-| PHPCaptcha | Ongoing |
-| cucumber (Forked) | Released, no more future updates |
-| MultiProtocol (Forked)  | Released, no more future updates |
-| BlockCommand/BlockCommander | Released, no more future updates |
-| [@PinakaMalupetnaServer-Network](https://github.com/PinakaMalupetnaServer-Network) (Organization) | Retired |
-| [@CatalystPE](https://github.com/CatalystPE) (Organization) | Resigned |
-| [@HoennPE](https://github.com/HoennPE) (Organization) | Retired |
 
 
 ### Social Medias
