@@ -1,10 +1,12 @@
-## Latest Announcements
-*Due to busy school schedules, i am unable to maintain PHPCaptcha, but still i dont want to give up on this project.*
-
-*PMnS will be back*
-
 # Introduction
-Hi, My name is **Lyco, or aka princepines**, i love to make websites and more!
+Hi, My name is **Lyco aka princepines**, i love to make websites and more!
+
+I spend most of my time Sleeping, Coding, Eating, and of course Studying.
+
+## Little Information ℹ
+- I am 18 years old
+- I am a BSIT Student
+- I don't have a lovelife 💔
 
 ## Skills? 🤔
 - Programming and Web Development (HTML, CSS, PHP, C++, MySQL, PHP)
@@ -15,7 +17,7 @@ Hi, My name is **Lyco, or aka princepines**, i love to make websites and more!
 - Audio-Video Integrations (Live)
 - Live Production Tech (All operations)
 
-### Experiences ⚡
+## Experiences ⚡
 - Volunteer Video Integrator and Consultant and Volunteer All Around Live Prod Tech at Christ's Commission Fellowship - Alabang
 - Owner and Developer of PinakaMalupetnaServer
 - Former Founder and CEO of PinesHosting
@@ -24,6 +26,12 @@ Hi, My name is **Lyco, or aka princepines**, i love to make websites and more!
 - Former President and Support for Bedrock Servers at Green-Bull Minecraft Hosting
 - Former Server Administrator at SerenitySMP, Esquires Server, Verdanturf SMP, and KADALARO
 
+### Latest Announcements
+> **Due to busy school schedules, i am unable to maintain PHPCaptcha, but still i dont want to give up on this project.**
+
+> **PMnS will be back**
+
+> **Currently on progress updating plugins to new PocketMine-MP API 4**
 
 ### Social Medias
 | Social Media | Link/Details |
@@ -32,6 +40,7 @@ Hi, My name is **Lyco, or aka princepines**, i love to make websites and more!
 | LinkedIn | [Link](https://www.linkedin.com/in/lyco-tatierra-a81b421bb/)
 | YouTube | <a href="https://www.youtube.com/channel/UCcltou22yjHJpffh88FiVEA">Link</a>
 | Discord | princepines#6636 |
+| Discord (2) | Lycol50#9614 |
 | Twitter | <a href="https://twitter.com/Lycol50">@Lycol50</a>
 
 #### Emails
