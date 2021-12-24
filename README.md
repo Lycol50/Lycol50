@@ -6,7 +6,7 @@ I spend most of my time Sleeping, Coding, Eating, and of course Studying.
 ## Little Information ℹ
 - I am 18 years old
 - I am a BSIT Student
-- I don't have a lovelife 💔
+- I do have a lovelife 💖
 
 ## Skills? 🤔
 - Programming and Web Development (HTML, CSS, PHP, C++, MySQL, PHP)
