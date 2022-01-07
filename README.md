@@ -26,12 +26,6 @@ I spend most of my time Sleeping, Coding, Eating, and of course Studying.
 - Former President and Support for Bedrock Servers at Green-Bull Minecraft Hosting
 - Former Server Administrator at SerenitySMP, Esquires Server, Verdanturf SMP, and KADALARO
 
-### Latest Announcements
-> **Due to busy school schedules, i am unable to maintain PHPCaptcha, but still i dont want to give up on this project.**
-
-> **PMnS will be back**
-
-> **Currently on progress updating plugins to new PocketMine-MP API 4**
 
 ### Social Medias
 | Social Media | Link/Details |
