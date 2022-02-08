@@ -20,7 +20,7 @@ I spend most of my time Sleeping, Coding, Eating, and of course Studying.
 
 ## Experiences ⚡
 - Volunteer Video Integrator and Consultant and Volunteer All Around Live Prod Tech at Christ's Commission Fellowship - Alabang
-- Owner and Developer of PinakaMalupetnaServer
+- Former Owner and Developer of PinakaMalupetnaServer
 - Former Founder and CEO of PinesHosting
 - Former Plugin Developer at HoennPE Network
 - Former Owner and Plugin Developer at old-PMnS (both PocketMine and Nukkit)
