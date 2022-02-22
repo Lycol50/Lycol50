@@ -11,7 +11,6 @@ I spend most of my time Sleeping, Coding, Eating, and of course Studying.
 
 ## Skills? 🤔
 - Programming and Web Development (HTML, CSS, PHP, C++, MySQL, PHP)
-- PocketMine Plugin Development
 - Server Administration (Specialization on Linux Ubuntu Server)
 - IT Related Skills
 - Customer Service
@@ -20,6 +19,7 @@ I spend most of my time Sleeping, Coding, Eating, and of course Studying.
 
 ## Experiences ⚡
 - Volunteer Video Integrator and Consultant and Volunteer All Around Live Prod Tech at Christ's Commission Fellowship - Alabang
+- Founder and CEO of Princepines Programming Group
 - Former Owner and Developer of PinakaMalupetnaServer
 - Former Founder and CEO of PinesHosting
 - Former Plugin Developer at HoennPE Network
@@ -32,7 +32,7 @@ I spend most of my time Sleeping, Coding, Eating, and of course Studying.
 | Social Media | Link/Details |
 | ----------- | ----------- |
 | Facebook  | <a href="https://fb.me/princepiness">/princepiness</a>
-| LinkedIn | [Link](https://www.linkedin.com/in/lyco-tatierra-a81b421bb/)
+| LinkedIn | [Link](https://www.linkedin.com/in/princepines/)
 | YouTube | <a href="https://www.youtube.com/channel/UCcltou22yjHJpffh88FiVEA">Link</a>
 | Discord | princepines#6636 |
 | Discord (2) | Lycol50#9614 |
