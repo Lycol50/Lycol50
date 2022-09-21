@@ -7,7 +7,7 @@ I spend most of my time Sleeping, Coding, Eating, and of course Studying.
 - I am 19 years old
 - I am a BSIT Student
 - I do play Wangan Midnight Maximum Tune, with Nissan Z30 as Main
-- I don't have a lovelife 💔
+- I do have lovelife ❤️
 
 ## Skills? 🤔
 - Programming and Web Development (HTML, CSS, PHP, C++, MySQL, PHP)
