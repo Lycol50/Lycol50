@@ -6,7 +6,6 @@ I spend most of my time Sleeping, Coding, Eating, and of course Studying.
 ## Little Information ℹ
 - I am 19 years old
 - I am a BSIT Student
-- I do play Wangan Midnight Maximum Tune, with Nissan Z30 as Main
 - I do have lovelife ❤️
 
 ## Skills? 🤔
@@ -36,10 +35,11 @@ I spend most of my time Sleeping, Coding, Eating, and of course Studying.
 | YouTube | <a href="https://www.youtube.com/channel/UCcltou22yjHJpffh88FiVEA">Link</a>
 | Discord | princepines#6636 |
 | Discord (2) | Lycol50#9614 |
-| Twitter | <a href="https://twitter.com/Lycol50">@Lycol50</a>
+| Twitter | <a href="https://twitter.com/princepiness">@princepiness</a>
+| Tiktok | <a href="https://tiktok.com/@princepines">@princepines</a>
 
 #### Emails
-- princepines@informatics.edu.ph
+- frizth_tatierra@informatics.edu.ph
 
 ![prince](https://github-readme-stats.vercel.app/api?username=Lycol50&show_icons=true&theme=gotham)&nbsp;
 ![princelang](https://github-readme-stats.vercel.app/api/top-langs/?username=Lycol50&layout=compact&theme=gotham)
