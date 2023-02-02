@@ -9,7 +9,7 @@ I spend most of my time Sleeping, Coding, Eating, and of course Studying.
 - I do have lovelife ❤️
 
 ## Skills? 🤔
-- Programming and Web Development (HTML, CSS, PHP, C++, MySQL, PHP)
+- Programming and Web Development (HTML, CSS, PHP, C++, MySQL)
 - Server Administration (Specialization on Linux Ubuntu Server)
 - IT Related Skills
 - Customer Service
