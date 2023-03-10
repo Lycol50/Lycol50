@@ -10,13 +10,14 @@ I spend most of my time Sleeping, Coding, Eating, and of course Studying.
 
 ## Skills? 🤔
 - Programming and Web Development (HTML, CSS, PHP, C++, MySQL)
-- Server Administration (Specialization on Linux Ubuntu Server)
+- Server Administration (Specialization on Debian Distribution)
 - IT Related Skills
 - Customer Service
 - Audio-Video Integrations (Live)
 - Live Production Tech (All operations)
 
 ## Experiences ⚡
+- President at IT/CS Organization of Informatics College Northgate
 - Volunteer Video Integrator and Consultant and Volunteer All Around Live Prod Tech at Christ's Commission Fellowship - Alabang
 - Founder and CEO of Princepines Programming Group
 - Former Owner and Developer of PinakaMalupetnaServer
