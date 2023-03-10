@@ -18,25 +18,23 @@ I spend most of my time Sleeping, Coding, Eating, and of course Studying.
 
 ## Experiences ⚡
 - President at IT/CS Organization of Informatics College Northgate
-- Volunteer Video Integrator and Consultant and Volunteer All Around Live Prod Tech at Christ's Commission Fellowship - Alabang
-- Founder and CEO of Princepines Programming Group
-- Former Owner and Developer of PinakaMalupetnaServer
-- Former Founder and CEO of PinesHosting
+- Volunteer Video Integrator, Consultant, and All Around Live Prod Tech at Christ's Commission Fellowship - Alabang
+- Founder and CEO of princepines (former Princepines Programming Group)
+- Former COO, Server Administrator, and Plugin Developer of PinakaMalupetnaServer
 - Former Plugin Developer at HoennPE Network
 - Former Owner and Plugin Developer at old-PMnS (both PocketMine and Nukkit)
 - Former President and Support for Bedrock Servers at Green-Bull Minecraft Hosting
-- Former Server Administrator at SerenitySMP, Esquires Server, Verdanturf SMP, and KADALARO
+- Former Server Administrator at SerenitySMP, Esquires Server, Verdanturf SMP, and KADALARO (Freelance)
 
 
 ### Social Medias
 | Social Media | Link/Details |
 | ----------- | ----------- |
 | Facebook  | <a href="https://fb.me/princepiness">/princepiness</a>
-| LinkedIn | [Link](https://www.linkedin.com/in/princepines/)
-| YouTube | <a href="https://www.youtube.com/channel/UCcltou22yjHJpffh88FiVEA">Link</a>
+| LinkedIn (School) | [Link](https://www.linkedin.com/in/princepines/)
+| LinkedIn (Personal) | [Link](https://www.linkedin.com/in/Lycol50/)
+| YouTube | <a href="https://www.youtube.com/@princepines">Link</a>
 | Discord | princepines#6636 |
-| Discord (2) | Lycol50#9614 |
-| Twitter | <a href="https://twitter.com/princepiness">@princepiness</a>
 | Tiktok | <a href="https://tiktok.com/@princepines">@princepines</a>
 
 #### Emails
