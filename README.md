@@ -40,8 +40,8 @@ I spend most of my time Sleeping, Coding, Eating, and of course Studying.
 #### Emails
 - frizth_tatierra@informatics.edu.ph
 
-![prince](https://github-readme-stats.vercel.app/api?username=Lycol50&show_icons=true&theme=gotham)&nbsp;
-![princelang](https://github-readme-stats.vercel.app/api/top-langs/?username=Lycol50&layout=compact&theme=gotham)
+![prince](https://github-readme-stats.vercel.app/api?username=Lycol50&show_icons=true&theme=transparent&count_private=true)&nbsp;
+![princelang](https://github-readme-stats.vercel.app/api/top-langs/?username=Lycol50&layout=compact&theme=transparent&count_private=true)
 
 <!--
 **Lycol50/Lycol50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
