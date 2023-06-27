@@ -4,7 +4,7 @@ Hi, My name is **Lyco aka princepines**, i love to make websites and more!
 I spend most of my time Sleeping, Coding, Eating, and of course Studying.
 
 ## Little Information ℹ
-- I am 19 years old
+- I am 20 years old
 - I am a BSIT Student
 - I don't have lovelife 💔
 
