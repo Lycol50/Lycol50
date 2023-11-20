@@ -1,5 +1,5 @@
 # Introduction
-Hi, My name is **Lyco aka princepines**, i love to make websites and more!
+Hi, My name is **Lyco**, i love to make websites and more!
 
 I spend most of my time Sleeping, Coding, Eating, and of course Studying.
 
@@ -17,14 +17,16 @@ I spend most of my time Sleeping, Coding, Eating, and of course Studying.
 - Live Production Tech (All operations)
 
 ## Experiences ⚡
-- President at IT/CS Organization of Informatics College Northgate
+- Business Owner and Web Developer at 3K FAST PRINTS
+- Founder and Microsoft 365 Administrator at TheDawnPH
 - Volunteer Video Integrator, Consultant, and All Around Live Prod Tech at Christ's Commission Fellowship - Alabang
-- Founder and CEO of princepines (former Princepines Programming Group)
+- Former President at TechSPARKS (An IT/CS Organization) of Informatics College Northgate
+- Former Founder and CEO of princepines (former Princepines Programming Group)
 - Former COO, Server Administrator, and Plugin Developer of PinakaMalupetnaServer
 - Former Plugin Developer at HoennPE Network
 - Former Owner and Plugin Developer at old-PMnS (both PocketMine and Nukkit)
 - Former President and Support for Bedrock Servers at Green-Bull Minecraft Hosting
-- Former Server Administrator at SerenitySMP, Esquires Server, Verdanturf SMP, and KADALARO (Freelance)
+- Former Game Server Administrator for Minecraft Bedrock at SerenitySMP, Esquires Server, Verdanturf SMP, and KADALARO (Freelance)
 
 
 ### Social Medias
@@ -36,9 +38,12 @@ I spend most of my time Sleeping, Coding, Eating, and of course Studying.
 | YouTube | <a href="https://www.youtube.com/@princepines">Link</a>
 | Discord | princepines#6636 |
 | Tiktok | <a href="https://tiktok.com/@princepines">@princepines</a>
+| Business | <a href="https://fb.me/3kfastprints">/princepiness</a>
 
 #### Emails
+- lycoatwork@gmail.com
 - frizth_tatierra@informatics.edu.ph
+- frizth-tatierra@thedawnph.onmicrosoft.com
 
 ![prince](https://github-readme-stats.vercel.app/api?username=Lycol50&show_icons=true&theme=transparent&count_private=true)&nbsp;
 ![princelang](https://github-readme-stats.vercel.app/api/top-langs/?username=Lycol50&layout=compact&theme=transparent&count_private=true)
