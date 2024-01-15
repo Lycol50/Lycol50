@@ -19,13 +19,12 @@ I spend most of my time Sleeping, Coding, Eating, and of course Studying.
 ## Experiences ⚡
 - Business Owner and Web Developer at 3K FAST PRINTS
 - Founder and Microsoft 365 Administrator at TheDawnPH
-- Volunteer Video Integrator, Consultant, and All Around Live Prod Tech at Christ's Commission Fellowship - Alabang
+- Volunteer Audio-Video Integrator, and All Around Live Prod Tech at Christ's Commission Fellowship - Alabang
 - Former President at TechSPARKS (An IT/CS Organization) of Informatics College Northgate
 - Former Founder and CEO of princepines (former Princepines Programming Group)
 - Former COO, Server Administrator, and Plugin Developer of PinakaMalupetnaServer
 - Former Plugin Developer at HoennPE Network
 - Former Owner and Plugin Developer at old-PMnS (both PocketMine and Nukkit)
-- Former President and Support for Bedrock Servers at Green-Bull Minecraft Hosting
 - Former Game Server Administrator for Minecraft Bedrock at SerenitySMP, Esquires Server, Verdanturf SMP, and KADALARO (Freelance)
 
 
