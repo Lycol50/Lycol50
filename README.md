@@ -6,7 +6,7 @@ I spend most of my time Sleeping, Coding, Eating, and of course Studying.
 ## Little Information ℹ
 - I am 20 years old
 - I am a BSIT Student
-- I don't have lovelife 💔
+- I do have lovelife 💚
 
 ## Skills? 🤔
 - Programming and Web Development (HTML, CSS, PHP, C++, MySQL)
@@ -33,12 +33,11 @@ I spend most of my time Sleeping, Coding, Eating, and of course Studying.
 | Social Media | Link/Details |
 | ----------- | ----------- |
 | Facebook  | <a href="https://fb.me/princepiness">/princepiness</a>
-| LinkedIn (School) | [Link](https://www.linkedin.com/in/princepines/)
 | LinkedIn (Personal) | [Link](https://www.linkedin.com/in/Lycol50/)
 | YouTube | <a href="https://www.youtube.com/@princepines">Link</a>
 | Discord | princepines#6636 |
 | Tiktok | <a href="https://tiktok.com/@princepines">@princepines</a>
-| Business | <a href="https://fb.me/3kfastprints">/princepiness</a>
+| Business | <a href="https://fb.me/3kfastprints">/3kfastprints</a>
 
 #### Emails
 - lycoatwork@gmail.com
