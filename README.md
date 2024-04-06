@@ -4,12 +4,12 @@ Hi, My name is **Lyco**, i love to make websites and more!
 I spend most of my time Sleeping, Coding, Eating, and of course Studying.
 
 ## Little Information ℹ
-- I am 20 years old
+- I am 21 years old
 - I am a BSIT Student
 - I do have lovelife 💚
 
 ## Skills? 🤔
-- Programming and Web Development (HTML, CSS, PHP, C++, MySQL)
+- Programming and Web Development (HTML, CSS, PHP, MySQL)
 - Server Administration (Specialization on Debian Distribution)
 - IT Related Skills
 - Customer Service
