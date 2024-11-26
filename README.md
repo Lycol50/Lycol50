@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lycol50?tab=repositories](https://github.com/Lycol50?tab=repositories)
 
-- 📫 How to reach me **frizth-tatierra@thedawnph.onmicrosoft.com**
+- 📫 How to reach me **hello@thedawnph.net**
 
 - ⚡ Fun fact **I do sleep**
 
