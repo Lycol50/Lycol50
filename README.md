@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lyco Tatierra</h1>
-<h3 align="center">A Web Developer and Audio-Video Integrator from Alabang, Muntinlupa</h3>
+<h3 align="center">A Developer and IT Professional from Alabang, Muntinlupa City.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lycol50&label=Profile%20views&color=0e75b6&style=flat" alt="lycol50" /> </p>
 
