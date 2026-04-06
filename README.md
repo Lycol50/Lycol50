@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lycol50&label=Profile%20views&color=0e75b6&style=flat" alt="lycol50" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lycol50" alt="lycol50" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-sigma-one.vercel.app?username=lycol50" alt="lycol50" /></a> </p>
 
  👨‍💻 All of my projects are available at [https://github.com/Lycol50?tab=repositories](https://github.com/Lycol50?tab=repositories)
 
